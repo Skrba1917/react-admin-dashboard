@@ -6,5 +6,5 @@ You are able to navigate through multiple pages, look at different charts with d
 
 Website is deployed on Vercel.
 
-Deployment link: 
+Deployment link: https://react-modern-dashboard.vercel.app/
 
